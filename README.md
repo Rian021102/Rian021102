@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rian021102
-- 👀 I’m a Data & Machine Learning Engineering enthusiast
+- 👀 I’m a Machine Learning Engineer
 - 🌱 I’m a long life learner in Data Science, Machine Learning/Artifical Intelligent
 - 💞️ I’m looking to collaborate on Machine Learning Project
 - 📫 How to reach me drop me a message on https://www.linkedin.com/in/rian-rachmanto-88347b14
